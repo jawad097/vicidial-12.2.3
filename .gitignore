@@ -1,0 +1,6 @@
+# Only exclude temporary files
+*.log
+temp/
+recordings/*.mp3
+recordings/*.wav
+cache/
